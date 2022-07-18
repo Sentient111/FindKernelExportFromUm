@@ -3,7 +3,7 @@
 If you are using vulnerable drivers this might be useful.   
 
 ## DESCRIPTION
-Basically does as the name says. You get kernel exports in this example "NtQueryInformationFile" from usermode without reading from kernel memory.
+Basically does as the name says. You get kernel exports, in this example "NtQueryInformationFile", from usermode without reading from kernel memory.
 
 
 ## HOW IT WORKS
